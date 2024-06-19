@@ -4,7 +4,7 @@
   "description": "-Node.js - Você encontra em: https://nodejs.org/en/",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "npm test",
     "start": "npx serverest",
     "cy:run": "npx cypress run"
   },
